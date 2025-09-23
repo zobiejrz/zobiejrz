@@ -2,11 +2,13 @@
 
 ## 🚀 About Me
 
-I recently graduated from Brigham Young University with my Bachelor of Science in Computer Science, emphasizing in Data Science.
+I graduated from Brigham Young University with my Bachelor of Science in Computer Science, emphasizing in Data Science in December 2023.
 
 ## 🌟 Recent Work
 
-- Contributed as a coauthor to "Mineral Site Occupancy and Chemical Substitutability as an Area of Interest for Martian Mineral Analyses" by Kate Hendrickson (link to come)
+- Upcoming chess app built using my own [zChessKit](https://www.github.com/zobiejrz/zChessKit), releasing late October - early November
+- Contributed as a coauthor to ["Network Analysis of Ion Substitutions across Mineral Paragenetic Modes"](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95194/application/10773) by Kate Hendrickson
+- Contributed as a coauthor to ["Mineral Site Occupancy and Chemical Substitutability as an Area of Interest for Martian Mineral Analyses"](https://www.hou.usra.edu/meetings/lpsc2025/pdf/2641.pdf) by Kate Hendrickson
 
 ## 💪 Skills
 
