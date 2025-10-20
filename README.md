@@ -1,15 +1,3 @@
-<style>
-  @font-face {
-    font-family: "ben-handwritten";
-    src: url("./assets/Ben_handwriting-Regular.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
-  }
-  h1,h2,h3,h4,h5,h6 {
-    font-family: "ben-handwritten", sans-serif;
-  }
-</style>
-
 # 👋 I'm Ben Zobrist
 
 ## 🚀 About Me
