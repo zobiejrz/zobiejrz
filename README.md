@@ -1,3 +1,15 @@
+<style>
+  @font-face {
+    font-family: "ben-handwritten";
+    src: url("./assets/Ben_handwriting-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  h1,h2,h3,h4,h5,h6 {
+    font-family: "ben-handwritten", sans-serif;
+  }
+</style>
+
 # 👋 I'm Ben Zobrist
 
 ## 🚀 About Me
@@ -6,7 +18,7 @@ I graduated from Brigham Young University with my Bachelor of Science in Compute
 
 ## 🌟 Recent Work
 
-- Upcoming chess app built using my own [zChessKit](https://www.github.com/zobiejrz/zChessKit), releasing late October - early November
+- [zChess](https://www.zchess.app), a chess opening/puzzle trainer built using my own [zChessKit](https://www.github.com/zobiejrz/zChessKit)
 - Contributed as a coauthor to ["Network Analysis of Ion Substitutions across Mineral Paragenetic Modes"](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95194/application/10773) by Kate Hendrickson
 - Contributed as a coauthor to ["Mineral Site Occupancy and Chemical Substitutability as an Area of Interest for Martian Mineral Analyses"](https://www.hou.usra.edu/meetings/lpsc2025/pdf/2641.pdf) by Kate Hendrickson
 
