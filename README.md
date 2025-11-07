@@ -6,6 +6,7 @@ I graduated from Brigham Young University with my Bachelor of Science in Compute
 
 ## 🌟 Recent Work
 
+- [zChess Clock](http://zchessclock.app), A fun, flexible chess timer. The repository is [zobiejrz/zChessClock](https://github.com/zobiejrz/zChessClock)
 - [zChess](https://www.zchess.app), a chess opening/puzzle trainer built using my own [zChessKit](https://www.github.com/zobiejrz/zChessKit)
 - Contributed as a coauthor to ["Network Analysis of Ion Substitutions across Mineral Paragenetic Modes"](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95194/application/10773) by Kate Hendrickson
 - Contributed as a coauthor to ["Mineral Site Occupancy and Chemical Substitutability as an Area of Interest for Martian Mineral Analyses"](https://www.hou.usra.edu/meetings/lpsc2025/pdf/2641.pdf) by Kate Hendrickson
